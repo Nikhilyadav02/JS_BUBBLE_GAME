@@ -1,5 +1,7 @@
 # JS Bubble Game
 
+![Screenshot (189)](https://github.com/Nikhilyadav02/JS_BUBBLE_GAME/assets/65152561/6701fd43-2ef1-4bc2-a9aa-79c20e4c67ea)
+
 This is a simple JavaScript-based bubble game with minimal HTML and CSS. The objective of the game is to score as many points as possible within a 1-minute time frame. Here's how to play:
 
 ## How to Play
